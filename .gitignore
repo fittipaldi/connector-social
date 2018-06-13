@@ -9,9 +9,7 @@ wp-content/upgrade/
 wp-content/uploads/
 wp-content/mu-plugins/
 wp-content/wp-cache-config.php
-wp-content/plugins/hello.php
 
-/.htaccess
 /license.txt
 /readme.html
 /sitemap.xml
